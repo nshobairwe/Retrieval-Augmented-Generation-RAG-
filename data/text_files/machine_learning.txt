@@ -1,0 +1,23 @@
+MACHINE LEARNING
+================
+
+Machine learning is a way to build computer programs that learn patterns
+from examples instead of relying only on hand-written rules.
+
+A basic workflow is:
+1. Collect and prepare data.
+2. Choose a learning algorithm.
+3. Train the model on example data.
+4. Evaluate it on data it has not seen before.
+5. Use the model to make predictions.
+
+Common types of machine learning:
+- Supervised learning learns from examples that include the correct answers.
+- Unsupervised learning finds groups or patterns without supplied answers.
+- Reinforcement learning learns actions through rewards and feedback.
+
+Python libraries such as NumPy, pandas, and scikit-learn help with data
+preparation and model training.
+
+A trained model should be evaluated carefully. A model that memorizes its
+training examples may perform poorly on new data; this is called overfitting.
